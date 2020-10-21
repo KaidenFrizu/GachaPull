@@ -9,7 +9,7 @@ MIT](https://img.shields.io/badge/license-MIT-red.svg)](https://cran.r-project.o
 Comparative analysis on theoretical and simulated data in Arknights
 Headhunting.
 
-Developed by [KaidenFrizu](https://twitter.com/KaidenFrizu),
+Developed by [KaidenFrizu](https://github.com/KaidenFrizu),
 [SurfChu85](https://twitter.com/SurfChu85), [Ayane
 Satomi](https://github.com/sr229), and
 [Eyenine](https://twitter.com/Eyenine_i9).
