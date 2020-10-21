@@ -67,5 +67,6 @@ Analysis
 
 **RPubs** -
 <a href="https://rpubs.com/Frizu/arknightstheo" class="uri">https://rpubs.com/Frizu/arknightstheo</a>
+
 **Github** -
 <a href="https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md" class="uri">https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md</a>
