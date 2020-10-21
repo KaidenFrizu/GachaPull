@@ -6,10 +6,16 @@ Arknights 6-star Headhunting Streak Analysis
 MIT](https://img.shields.io/badge/license-MIT-red.svg)](https://cran.r-project.org/web/licenses/MIT)
 [![](https://img.shields.io/github/last-commit/KaidenFrizu/GachaPull.svg)](https://github.com/KaidenFrizu/GachaPull/commits/master)
 
-Details on Arknights 6★ Headhunting Streak and Analysis.
+Comparative analysis on theoretical and simulated data in Arknights
+Headhunting.
 
-About
------
+Developed by [KaidenFrizu](https://twitter.com/KaidenFrizu),
+[SurfChu85](https://twitter.com/SurfChu85), [Ayane
+Satomi](https://github.com/sr229), and
+[Eyenine](https://twitter.com/Eyenine_i9).
+
+Abstract
+--------
 
 Theoretical probabilities are important to predict your chances in
 getting 6★ Operators in Arknights. While the first 50 consecutive non-6★
@@ -55,8 +61,8 @@ A file containing all the custom codes used for simulation and analysis.
 `GachaPull.Rproj`  
 File used to open the project in RStudio.
 
-`Arknights-Math.md`  
-The md version of the analysis
+`LICENSE`  
+Details on MIT License
 
 `Savedata.RData`  
 An `RData` that contains the saved environment on its last render.
