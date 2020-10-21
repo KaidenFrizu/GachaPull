@@ -2,9 +2,8 @@ Arknights 6-star Headhunting Streak Analysis
 ============================================
 
 [![](https://img.shields.io/badge/Analysis-RPubs-blue.svg)](https://rpubs.com/Frizu/arknightstheo)
-[![](https://img.shields.io/badge/Analysis-Github-red.svg)](https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md)
 [![License:
-MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://cran.r-project.org/web/licenses/MIT)
+MIT](https://img.shields.io/badge/license-MIT-red.svg)](https://cran.r-project.org/web/licenses/MIT)
 [![](https://img.shields.io/github/last-commit/KaidenFrizu/GachaPull.svg)](https://github.com/KaidenFrizu/GachaPull/commits/master)
 
 Details on Arknights 6★ Headhunting Streak and Analysis.
@@ -65,8 +64,5 @@ An `RData` that contains the saved environment on its last render.
 Analysis
 --------
 
-**RPubs** -
-<a href="https://rpubs.com/Frizu/arknightstheo" class="uri">https://rpubs.com/Frizu/arknightstheo</a>
-
-**Github** -
-<a href="https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md" class="uri">https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md</a>
+Detailed analysis can be found in
+[**RPubs**](https://rpubs.com/Frizu/arknightstheo).
