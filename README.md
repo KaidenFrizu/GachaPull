@@ -58,11 +58,15 @@ Files
 `arkfunc.R`  
 A file containing all the custom codes used for simulation and analysis.
 
+`CODEBOOK.md`  
+A markdown file that contains the function and variable details in
+`arkfunc.R` and `Savedata.RData`.
+
 `GachaPull.Rproj`  
 File used to open this project in RStudio.
 
 `LICENSE`  
-Details on MIT License
+Contains the details on MIT License.
 
 `Savedata.RData`  
 An `RData` that contains the saved global environment on its last
