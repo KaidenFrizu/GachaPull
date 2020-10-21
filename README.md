@@ -1,5 +1,5 @@
-Arknights 6-star Headhunting Streak Analysis
-============================================
+Arknights 6-star Headhunting Rate Analysis
+==========================================
 
 [![](https://img.shields.io/badge/Analysis-RPubs-blue.svg)](https://rpubs.com/Frizu/arknightstheo)
 [![License:
@@ -59,13 +59,14 @@ Files
 A file containing all the custom codes used for simulation and analysis.
 
 `GachaPull.Rproj`  
-File used to open the project in RStudio.
+File used to open this project in RStudio.
 
 `LICENSE`  
 Details on MIT License
 
 `Savedata.RData`  
-An `RData` that contains the saved environment on its last render.
+An `RData` that contains the saved global environment on its last
+render.
 
 Analysis
 --------
