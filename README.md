@@ -1,3 +1,6 @@
+Arknights 6-star Headhunting Streak Analysis
+============================================
+
 [![](https://img.shields.io/badge/Analysis-RPubs-blue.svg)](https://rpubs.com/Frizu/arknightstheo)
 [![](https://img.shields.io/badge/Analysis-Github-red.svg)](https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md)
 [![License:
