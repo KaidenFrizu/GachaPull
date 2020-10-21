@@ -92,6 +92,17 @@ RNG through the function `srand()`. Returns a list of three elements.
     of no values passed on this argument, the default (fixed seed) shall
     be done.
 
+### Custom RNG
+
+-   `srand()` - A function created by
+    [SurfChu85](https://twitter.com/SurfChu85) that is based from
+    [Rosetta Code](https://rosettacode.org/wiki/Subtractive_generator)
+    website. When a seed number is passed into this function, it returns
+    nothing but creates an RNG state which is `TEMP55` as a side effect.
+    When the `seed` is `NULL`, it returns the next generated number from
+    `TEMP55`. If there’s no `TEMP55`, a new one would be created with a
+    seed based from `Sys.time()`.
+
 ------------------------------------------------------------------------
 
 Data
