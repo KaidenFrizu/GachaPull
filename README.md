@@ -1,18 +1,8 @@
-    badge_custom("Analysis","RPubs","blue","https://rpubs.com/Frizu/arknightstheo")
-
-    ## [1] "[![](https://img.shields.io/badge/Analysis-RPubs-blue.svg)](https://rpubs.com/Frizu/arknightstheo)"
-
-    badge_custom("Analysis","Github","red","https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md")
-
-    ## [1] "[![](https://img.shields.io/badge/Analysis-Github-red.svg)](https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md)"
-
-    badge_license("MIT","green")
-
-    ## [1] "[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://cran.r-project.org/web/licenses/MIT)"
-
-    badge_last_commit("KaidenFrizu/GachaPull")
-
-    ## [1] "[![](https://img.shields.io/github/last-commit/KaidenFrizu/GachaPull.svg)](https://github.com/KaidenFrizu/GachaPull/commits/master)"
+[![](https://img.shields.io/badge/Analysis-RPubs-blue.svg)](https://rpubs.com/Frizu/arknightstheo)
+[![](https://img.shields.io/badge/Analysis-Github-red.svg)](https://github.com/KaidenFrizu/GachaPull/blob/master/Arknights-Math.md)
+[![License:
+MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://cran.r-project.org/web/licenses/MIT)
+[![](https://img.shields.io/github/last-commit/KaidenFrizu/GachaPull.svg)](https://github.com/KaidenFrizu/GachaPull/commits/master)
 
 Details on Arknights 6★ Headhunting Streak and Analysis.
 
